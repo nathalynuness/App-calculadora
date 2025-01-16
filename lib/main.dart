@@ -55,7 +55,7 @@ class _HomepageState extends State<Homepage> {
               ),
             ),
             Expanded(
-              flex: 5,
+              flex: 4,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
@@ -67,7 +67,7 @@ class _HomepageState extends State<Homepage> {
                         ),
                   ),
                   Expanded(
-                    flex: 2,
+                    flex: 3,
                     child: Container(
                       alignment: Alignment.center,
                       decoration: BoxDecoration(
